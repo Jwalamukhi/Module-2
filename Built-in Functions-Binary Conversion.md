@@ -10,8 +10,8 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by:Jwalamukhi S
+Register no: 212223040079
 ```
 ```
  a=16 
