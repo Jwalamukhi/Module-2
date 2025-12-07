@@ -17,8 +17,8 @@ To write a Python program that checks whether a given number is a **palindrome**
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: Jwalamukhi S
+Register no: 212223040079
 ```
 
 ```
