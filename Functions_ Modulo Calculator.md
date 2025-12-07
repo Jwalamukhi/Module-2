@@ -13,8 +13,8 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧾 Program
 
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: Jwalamukhi S
+Register no: 212223040079
 ```
 
 ```
